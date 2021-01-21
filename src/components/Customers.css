@@ -1,0 +1,15 @@
+.Customa{
+    margin : 20px;
+    padding-right: 260px;
+    padding-left: 80px;
+    
+    float: left;
+}
+.Customa img{
+    border-radius: 50%;
+}
+.Custom{
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}

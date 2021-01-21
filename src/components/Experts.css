@@ -1,0 +1,18 @@
+.heada{
+    align-items: center;
+}
+.carou {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 350px;
+    padding-top: 10px;
+  }
+.round{
+    margin-top: 10px;
+}
+.entire{
+    margin-top: 15px;
+    background-color: skyblue;
+}

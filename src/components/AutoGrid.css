@@ -1,0 +1,58 @@
+.gallery {
+    margin: 10px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 200px;
+    height: 130px;
+    background-color: skyblue;
+  }
+.gallery img {
+    height: 80px;
+    padding-top: 10px;
+    width: 130px;
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+  }
+.img-con{
+    height : 300px;
+    width: 400px;
+}
+.img-cona{
+    height : 300px;
+    width: 450px;
+}
+
+.hhh{
+    padding-top: 30px;
+}  
+.ul{
+    margin-top: 10px;
+    list-style-type: none;
+}
+  .ul li{
+  
+    margin-top: 10px;
+}
+.comment{
+    margin-right: 120px;
+
+}
+.comments{
+    height: 100px;
+    width: 200px;
+    padding-left:10px;
+
+}
+.heading{
+    margin-top:40px;
+}
+.dog{
+    background: url('download.jpg') center center/cover no-repeat; 
+    height: 170px;
+    width: 200px;
+    float: right;
+    border-radius: 50%;
+}

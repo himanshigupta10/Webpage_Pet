@@ -1,0 +1,34 @@
+.cont{
+    width: 1406px;
+    height: 200px;
+    background-color: gainsboro;
+}
+.gall{
+    margin : 20px;
+    padding-right: 80px;
+    padding-left: 80px;
+    
+    float: left;
+}
+.gallc{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.des{
+    padding-top: 10px;
+}
+.desd{
+    padding-top: 1px;
+}
+.head{
+    padding-top: 30px;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    .gall{
+    width: 100%;
+}
+
+}
