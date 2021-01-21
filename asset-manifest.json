@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4af2260.chunk.css",
+    "main.js": "/static/js/main.fe95252f.chunk.js",
+    "main.js.map": "/static/js/main.fe95252f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8da6ca0f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8da6ca0f.js.map",
+    "static/js/2.903b29b9.chunk.js": "/static/js/2.903b29b9.chunk.js",
+    "static/js/2.903b29b9.chunk.js.map": "/static/js/2.903b29b9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d4af2260.chunk.css.map": "/static/css/main.d4af2260.chunk.css.map",
+    "static/js/2.903b29b9.chunk.js.LICENSE.txt": "/static/js/2.903b29b9.chunk.js.LICENSE.txt",
+    "static/media/downloadb.47cb5f38.jpg": "/static/media/downloadb.47cb5f38.jpg",
+    "static/media/img-1.8e5fb58d.jpeg": "/static/media/img-1.8e5fb58d.jpeg",
+    "static/media/img-2.1e498e8a.jpeg": "/static/media/img-2.1e498e8a.jpeg",
+    "static/media/microchip.cd75d1c1.png": "/static/media/microchip.cd75d1c1.png",
+    "static/media/stethoscope.186150da.png": "/static/media/stethoscope.186150da.png",
+    "static/media/syringe.970469b2.png": "/static/media/syringe.970469b2.png",
+    "static/media/water.46c3ef3b.png": "/static/media/water.46c3ef3b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8da6ca0f.js",
+    "static/js/2.903b29b9.chunk.js",
+    "static/css/main.d4af2260.chunk.css",
+    "static/js/main.fe95252f.chunk.js"
+  ]
+}
